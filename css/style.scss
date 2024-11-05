@@ -1,6 +1,6 @@
 /* import */
 
-@import url(/css/nulstyle.css);
+@import url(../css/nulstyle.css);
 
 /* fonts */
 
@@ -270,7 +270,7 @@ body {
 
 .herro {
     position: relative;
-    background: url(/img/main/coffee_image__bg.jpg);
+    background: url(../img/main/coffee_image__bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -585,7 +585,7 @@ body {
 .chance {
     position: relative;
     height: 574px;
-    background-image: url(/img/main/coffee_bean__bg.png);
+    background-image: url(../img/main/coffee_bean__bg.png);
     background-position: bottom 0 right 0;
     background-repeat: no-repeat;
 
@@ -594,7 +594,7 @@ body {
         width: 100%;
         z-index: -10;
         position: absolute;
-        background-image: url("/img/main/chance_bg.jpg");
+        background-image: url("../img/main/chance_bg.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -660,7 +660,7 @@ body {
 // footer
 
 .footer {
-    background: url(/img/main/fotter_image.png) #442808 50% / cover no-repeat;
+    background: url(../img/main/fotter_image.png) #442808 50% / cover no-repeat;
     background-blend-mode: overlay;
     background-position: bottom;
 
